@@ -1,1 +1,3 @@
 Project created in 2022 to investigate the efficacy of Seasonal Automated Regressive Integrated Moving Average in predicting short term stock price movements. Investigates the implementation of a constructed SARIMAx model in a real time market simulator, simulating purchase and loss mitigation startegies to find the pragmatic efficiacy of the algorithm in a real market. Refer to the included PDF file for the full report and its findings.
+
+Project was ammended post report to include ANN driven predictions using LSTM techniques.
